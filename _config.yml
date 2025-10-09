@@ -1,6 +1,7 @@
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
+theme: minima
 title: Test Webpage
 author: G. S. Epstein
 description: testing out github.io webpage functionality
+
 
 
